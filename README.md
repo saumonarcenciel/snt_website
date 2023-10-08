@@ -1,2 +1,1 @@
-# nsi_website
-Site très nul fait avec canarddu38 en NSI
+Site web pas beau fait en cours de NSI en seconde avec [canarddu38](https://github.com/canarddu38)
